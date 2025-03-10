@@ -40,8 +40,8 @@ npm run dev
 ```
 Ứng dụng sẽ chạy tại `http://localhost:4000/`.
 
-username: admin
-pass: 123456
+- username: admin
+- pass: 123456
 ---
 
 Nếu bạn gặp vấn đề hoặc có đóng góp, hãy liên hệ telegram @firetofficial! 🚀
