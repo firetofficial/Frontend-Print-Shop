@@ -38,8 +38,26 @@ npm install
 ```bash
 npm run dev
 ```
-Ứng dụng sẽ chạy tại `http://localhost:5173/`.
+Ứng dụng sẽ chạy tại `http://localhost:4000/`.
 
+username: admin
+pass: 123456
 ---
 
-Nếu bạn gặp vấn đề hoặc có đóng góp, hãy mở issue hoặc gửi pull request! 🚀
+Nếu bạn gặp vấn đề hoặc có đóng góp, hãy liên hệ telegram @firetofficial! 🚀
+---
+
+![image](https://github.com/user-attachments/assets/a4d70d09-f4e9-415b-975c-cb124627e7d7)
+![image](https://github.com/user-attachments/assets/3ec9c7c1-8281-4f82-8377-d2f3ab12423f)
+![image](https://github.com/user-attachments/assets/89758ef9-a239-40d0-9ce1-06d6cc067329)
+![image](https://github.com/user-attachments/assets/cf9d58d8-919c-413e-bf6c-05337654e42c)
+![image](https://github.com/user-attachments/assets/0f14f946-5729-4316-9c4b-4f05a1073cf4)
+![image](https://github.com/user-attachments/assets/1fda7172-1194-4cf2-9dbb-1bafc4003e4f)
+![image](https://github.com/user-attachments/assets/59cc64e5-c4d8-425d-aa10-554701efb879)
+![image](https://github.com/user-attachments/assets/2cc1b406-1271-4eff-85d1-1a59efd79578)
+![image](https://github.com/user-attachments/assets/6f6f8641-d437-4e65-badd-a9cfdde6ec08)
+![image](https://github.com/user-attachments/assets/456471ff-d09a-4e79-90b2-e19cbaa2ccef)
+![image](https://github.com/user-attachments/assets/d2b8543d-f5ce-4523-b15e-77a21f3865cb)
+![image](https://github.com/user-attachments/assets/3db2e1dd-3c10-4f74-b6dc-2f1b639cb034)
+![image](https://github.com/user-attachments/assets/cd5d031a-801f-43f6-befa-b0371c802abe)
+
